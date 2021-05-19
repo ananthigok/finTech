@@ -11,7 +11,7 @@ Finn AI was founded to provide support to financial institutions so that their c
 
 The enterprise operates on a subscription-based SaaS model which uses modern cloud infrastructure to develop, deploy and upgrade each virtual assistant across different global regions. It can be easily utilized on bank’s digital channels including Website and Mobile Banking apps (Android and iOS).
 
-Leveraging Artificial Intelligence, Machine Learning and the deepest banking domain expertise in the industry to build conversational bots so that customers can easily manage their money and improve their financial literacy thereby also benefitting banks to have efficient management of time and resource in serving the customers where needed. 
+Leveraging Artificial Intelligence, Machine Learning and the deepest banking domain expertise in the industry to build conversational bots so that it's built with efficeincy. 
 
 ## Finn AI was incorporated in 2014 
     - An award-winning, AI-powered virtual assistant built for personal banking and finance. 
