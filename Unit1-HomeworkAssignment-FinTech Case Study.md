@@ -64,7 +64,7 @@ Leveraging Artificial Intelligence, Machine Learning and the deepest banking dom
         - Tyme Bank => 1,000,000+ Customers
         - Fidor Bank => 400,000+ Customers 
 
-    Finn AI's main competitors are: 
+### Finn AI's main competitors are: 
         - Abe AI, 
         - Personetics and KasistoActive AI, 
         - Ambit AI, 
